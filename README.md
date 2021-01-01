@@ -9,9 +9,11 @@ Crack malink v2
 # cara install
 
 -pkg install python2 git
+
 -git clone https://github.com/Rizal-XD/krek
 
 # cara jalanin SC
 
 -cd krek
+
 -python2 run.py
